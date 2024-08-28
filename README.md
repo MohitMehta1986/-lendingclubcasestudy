@@ -21,18 +21,18 @@ The aim is to identify patterns which indicate if a person is likely to default,
 The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
 
 ## Conclusions
-● Lending club should reduce the high interest loans for 60 months tenure, they are prone to loan
+* Lending club should reduce the high interest loans for 60 months tenure, they are prone to loan
 default.
-● Grades are good metric for detecting defaulters. Lending club should examine more information
+* Grades are good metric for detecting defaulters. Lending club should examine more information
 from borrowers before issuing loans to Low grade (G to A).
-● Lending Club should control their number of loan issues to borrowers who are from CA, FL and
+* Lending Club should control their number of loan issues to borrowers who are from CA, FL and
 NY to make profits.
-● Small business loans are defaulted more. Lending club should stop/reduce issuing the loans to
+* Small business loans are defaulted more. Lending club should stop/reduce issuing the loans to
 them.
-● Borrowers with mortgage home ownership are taking higher loans and defaulting the approved
+* Borrowers with mortgage home ownership are taking higher loans and defaulting the approved
 loans. Lending club should stop giving loans to this category when loan amount requested is more
 than 12000.
-● People with more number of public derogatory records are having more chance of filing a
+* People with more number of public derogatory records are having more chance of filing a
 bankruptcy. Lending club should make sure there are no public derogatory records for borrower.
 
 ## Technologies Used
